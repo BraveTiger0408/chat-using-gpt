@@ -1,0 +1,199 @@
+{
+  "+G35mR": {
+    "defaultMessage": "Open sidebar"
+  },
+  "+LMWDJ": {
+    "defaultMessage": "Chat History",
+    "description": "Heading for the chat history screen"
+  },
+  "/xTTti": {
+    "defaultMessage": "User settings",
+    "description": "Menu item that opens the user settings screen"
+  },
+  "0vL5u1": {
+    "defaultMessage": "Create an account"
+  },
+  "1j61Mn": {
+    "defaultMessage": "Or create an account",
+    "description": "Label for a button on the Sign In page that lets the user create an account instead"
+  },
+  "1r/ryM": {
+    "defaultMessage": "Cancel",
+    "description": "Label for the button that can be clicked while the AI is generating a response to cancel generation"
+  },
+  "2GFjIN": {
+    "defaultMessage": "Enter your password"
+  },
+  "3T9nRn": {
+    "defaultMessage": "Your API key is stored only on this device and never transmitted to anyone except OpenAI."
+  },
+  "5sg7KC": {
+    "defaultMessage": "Password"
+  },
+  "6LJByb": {
+    "defaultMessage": "Loading audio...",
+    "description": "Message indicating that text-to-speech audio is buffering"
+  },
+  "74eGxP": {
+    "defaultMessage": "New Chat",
+    "description": "Label for the button used to start a new chat session"
+  },
+  "8CYNFt": {
+    "defaultMessage": "No chats yet.",
+    "description": "Message shown on the Chat History screen for new users who haven't started their first chat session"
+  },
+  "8HJxXG": {
+    "defaultMessage": "Sign up"
+  },
+  "Bi0lS9": {
+    "defaultMessage": "Share",
+    "description": "Label for the button used to create a public share URL for a chat log"
+  },
+  "Bm3EKs": {
+    "defaultMessage": "Save changes",
+    "description": "Label for a button that appears when the user is editing the text of one of their messages, to save the changes"
+  },
+  "CIe3Dt": {
+    "defaultMessage": "Note: This model will only work if your OpenAI account has been granted you have been given access to it. <a>Request access here.</a>"
+  },
+  "FEzBCd": {
+    "defaultMessage": "Untitled",
+    "description": "default title for untitled chat sessions"
+  },
+  "Fko0yT": {
+    "defaultMessage": "Stop",
+    "description": "Label for the button that stops text-to-speech playback"
+  },
+  "HyS0qp": {
+    "defaultMessage": "Close sidebar"
+  },
+  "KKa5Br": {
+    "defaultMessage": "Give ChatGPT a realisic human voice by connecting your ElevenLabs account (preview the available voices below). <a>Click here to sign up.</a>"
+  },
+  "KbUcBc": {
+    "defaultMessage": "Your ElevenLabs API Key"
+  },
+  "L5s+z7": {
+    "defaultMessage": "OpenAI API key usage is billed at a pay-as-you-go rate, separate from your ChatGPT subscription."
+  },
+  "MI5gZ+": {
+    "defaultMessage": "Download SVG"
+  },
+  "N2NGTf": {
+    "defaultMessage": "Chat with GPT",
+    "description": "app name"
+  },
+  "NgCT/u": {
+    "defaultMessage": "Enter your email address"
+  },
+  "O83lC6": {
+    "defaultMessage": "Enter a message here..."
+  },
+  "Q97T+z": {
+    "defaultMessage": "Paste your API key here"
+  },
+  "S9BFby": {
+    "defaultMessage": "Play",
+    "description": "Label for the button that starts text-to-speech playback"
+  },
+  "SQJto2": {
+    "defaultMessage": "Sign in"
+  },
+  "T8gKkC": {
+    "defaultMessage": "Delete this chat"
+  },
+  "Tgo3vj": {
+    "defaultMessage": "Edit",
+    "description": "Label for the button the user can click to edit the text of one of their messages"
+  },
+  "UbN3HK": {
+    "defaultMessage": "Sign in <h>to sync</h>",
+    "description": "Label for sign in button, which indicates that the purpose of signing in is to sync your data between devices. Less important text inside <h> tags is hidden on small screens."
+  },
+  "VL24Xt": {
+    "defaultMessage": "Search your chats"
+  },
+  "Xzm66E": {
+    "defaultMessage": "Connect your OpenAI account to get started"
+  },
+  "Y0tGn6": {
+    "defaultMessage": "Or sign in to an existing account",
+    "description": "Label for a button on the Create Account page that lets the user sign into their existing account instead"
+  },
+  "bIacvz": {
+    "defaultMessage": "Chat with GPT - Unofficial ChatGPT app",
+    "description": "HTML title tag"
+  },
+  "f/hGIY": {
+    "defaultMessage": "Hello, how can I help you today?",
+    "description": "A friendly message that appears at the start of new chat sessions"
+  },
+  "gzJlXS": {
+    "defaultMessage": "Share",
+    "description": "Label for a button which shares the text of a chat message using the user device's share functionality"
+  },
+  "h9+jXQ": {
+    "defaultMessage": "The System Prompt is an invisible message inserted at the start of the chat and can be used to give ChatGPT information about itself and general guidelines for how it should respond. The <code>'{{ datetime }}'</code> tag is automatically replaced by the current date and time (use this to give the AI access to the time)."
+  },
+  "hJZwTS": {
+    "defaultMessage": "Email address"
+  },
+  "iqbKb2": {
+    "defaultMessage": "Save and Close",
+    "description": "Label for the button that closes the Settings screen, saving any changes"
+  },
+  "jU4MQH": {
+    "defaultMessage": "Rename this chat"
+  },
+  "jtu3jt": {
+    "defaultMessage": "You can find your API key by clicking your avatar or initials in the top right of the ElevenLabs website, then clicking Profile. Your API key is stored only on this device and never transmitted to anyone except ElevenLabs."
+  },
+  "ljHOzQ": {
+    "defaultMessage": "Copied",
+    "description": "Label for copy-to-clipboard button after a successful copy"
+  },
+  "mL4Q28": {
+    "defaultMessage": "Custom Voice ID"
+  },
+  "raQMIg": {
+    "defaultMessage": "Cancel",
+    "description": "Label for a button that appears when the user is editing the text of one of their messages, to cancel without saving changes"
+  },
+  "role-chatgpt": {
+    "defaultMessage": "ChatGPT",
+    "description": "Label that is shown above messages written by the AI (as opposed to the user)"
+  },
+  "role-system": {
+    "defaultMessage": "System",
+    "description": "Label that is shown above messages inserted into the conversation automatically by the system (as opposed to either the user or AI)"
+  },
+  "role-user": {
+    "defaultMessage": "You",
+    "description": "Label that is shown above messages written by the user (as opposed to the AI) in the user's own chat sessions (first person)."
+  },
+  "role-user-formal": {
+    "defaultMessage": "User",
+    "description": "Label that is shown above messages written by the user (as opposed to the AI) for publicly shared conversation (third person, formal)."
+  },
+  "ss6kle": {
+    "defaultMessage": "Reset to default"
+  },
+  "tZdXp/": {
+    "defaultMessage": "The temperature parameter controls the randomness of the AI's responses. Lower values will make the AI more predictable, while higher values will make it more creative."
+  },
+  "upBSoW": {
+    "defaultMessage": "Copy",
+    "description": "Label for copy-to-clipboard button"
+  },
+  "xXbJso": {
+    "defaultMessage": "Sign out"
+  },
+  "zBmup+": {
+    "defaultMessage": "Regenerate",
+    "description": "Label for the button used to ask the AI to regenerate one of its messages. Since message generations are stochastic, the resulting message will be different."
+  },
+  "zFt1cV": {
+    "defaultMessage": "Find your API key here.",
+    "description": "Label for the link that takes the user to the page on the OpenAI website where they can find their API key."
+  }
+}
